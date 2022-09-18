@@ -1,6 +1,6 @@
-const a = 78
+const a = 40
 const ah = 1.69
-const b = 92
+const b = 81
 const bh = 1.95
 
 const bmia = a / ah ** 2
